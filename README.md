@@ -6,20 +6,25 @@ Welcome to my research portfolio. I am a Computer Science student at Calvin Inst
 
 ---
 
-## 💻 Technical Research (AI & IoT)
+## 💻 Technical Research (AI, IoT & Data Science)
 
-### 1. Batik Classification using Deep Learning
-**Focus:** Computer Vision, Cultural Heritage
-* **Description:** Utilized CNNs to classify intricate Indonesian Batik patterns, bridging modern AI with cultural preservation.
-* **Tech Stack:** Python, TensorFlow, OpenCV.
-* 🔗 [View Repository](https://github.com/bcsuroso/Batik_Deep_Learning)
+### 1. Generative AI for Batik Pattern Design
+**Focus:** Generative AI, Computer Vision, Cultural Heritage Preservation
+* **Description:** Fine-tuned Stable Diffusion models using Low-Rank Adaptation (LoRA) to synthesize high-fidelity Indonesian Batik patterns. This project addresses the challenge of preserving structural consistency in traditional motifs while enabling modern digital creation.
+* **Tech Stack:** Python, PyTorch, Hugging Face Diffusers, Stable Diffusion (LoRA).
+* 🔗 [View Repository](https://github.com/bcsuroso/Generative-Batik-Heritage)
 
 ### 2. IoT-Based Biometric Attendance System
 **Focus:** IoT, Security, Real-time Processing
-* **Description:** Engineered a secure smart attendance system integrating Face Recognition (OpenCV) and QR Code verification. Designed to mitigate identity spoofing with real-time cloud synchronization.
+* **Description:** Engineered a secure smart attendance system integrating Face Recognition (OpenCV) and QR Code verification (Multi-Factor Authentication). Designed to mitigate identity spoofing with real-time cloud synchronization via MQTT and Firebase.
 * **Tech Stack:** ESP8266, OpenCV (Python), MQTT, Firebase Realtime Database, Node-RED.
-* 🔗 [View Repository](https://github.com/bcsuroso/nama-repo-absensi-kamu)
+* 🔗 [View Repository](https://github.com/bcsuroso/IoT-Biometric-Attendance)
 
+### 3. Clinical Prediction Model: Hyperparameter & Evaluation Analysis
+**Focus:** Machine Learning, Medical Informatics, Model Optimization
+* **Description:** Conducted a rigorous comparative study of supervised learning algorithms (Logistic Regression) to predict heart disease risk based on clinical biomarkers. Engineered a robust training pipeline using **GridSearchCV** and **RandomizedSearchCV** to optimize hyperparameters for maximum generalization.
+* **Tech Stack:** Python, Scikit-Learn, Pandas, NumPy.
+* 🔗 [View Repository](https://github.com/bcsuroso/Cardiac-Risk-Analysis)
 ---
 
 ## 📜 Academic Research & Writing (Humanities)
