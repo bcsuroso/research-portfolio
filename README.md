@@ -1,4 +1,4 @@
-# Research Portfolio - [Nama Lengkap Kamu]
+# Research Portfolio - Brian Christian Suroso
 
 **Computer Science Undergraduate | AI Specialist | Interdisciplinary Researcher**
 
