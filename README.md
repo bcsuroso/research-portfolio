@@ -19,6 +19,7 @@ Welcome to my research portfolio. I am a Computer Science student at Calvin Inst
 * **Description:** Engineered a secure smart attendance system integrating Face Recognition (OpenCV) and QR Code verification (Multi-Factor Authentication). Designed to mitigate identity spoofing with real-time cloud synchronization via MQTT and Firebase.
 * **Tech Stack:** ESP8266, OpenCV (Python), MQTT, Firebase Realtime Database, Node-RED.
 * 🔗 [View Repository](https://github.com/bcsuroso/IoT-Biometric-Attendance)
+* 📄 **[Read Technical Paper (PDF)](IoT_Biometric_Attendance_Technical_Paper.pdf)**
 
 ### 3. Clinical Prediction Model: Hyperparameter & Evaluation Analysis
 **Focus:** Machine Learning, Medical Informatics, Model Optimization
