@@ -28,13 +28,13 @@ Welcome to my research portfolio. I am a Computer Science student at Calvin Inst
 **Field:** Sociology of Technology & Philosophy
 * **Abstract:** This paper investigates social media through Michel Foucault’s frameworks of **Panopticism** and **Biopolitics**. It argues that social media trends act as a disciplinary mechanism where users function as both guards and prisoners. Furthermore, it analyzes how algorithms exercise biopolitical power by managing user visibility and amplifying conformity to maximize the 'attention economy'.
 * **Key Frameworks:** Foucault’s Panopticon, Biopolitics, Disciplinary Power.
-* 📄 **[Read Full Paper](nama_file_paper_foucauldian_kamu.pdf)**
+* 📄 **[Read Full Paper](Foucauldian_Social_Media_Analysis.pdf)**
 
 ### 2. Resonance of Panem et Circenses: Perpetuating Oligarchy in Indonesia
 **Field:** Political History & Comparative Sociology
 * **Abstract:** A comparative analysis connecting the Roman concept of *Panem et Circenses* (Bread and Circuses) to modern Indonesia’s political landscape. The study explores how **Oligarchy** and **Feudalism** are maintained through clientelism ('bread' / social aid) and the cultivation of political apathy via entertainment ('circus'), drawing parallels between the fall of the Roman Republic and current democratic challenges.
 * **Key Frameworks:** Juvenal’s Satire, Oligarchy Theory (Winters), Clientelism.
-* 📄 **[Read Full Paper](nama_file_paper_sejarah_kamu.pdf)**
+* 📄 **[Read Full Paper](Roman_Politics_and_Oligarchy.pdf)**
 
 ---
 
